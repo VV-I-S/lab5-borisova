@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/VV-I-S/lab5-borisova/issues"
   },
-  "homepage": "https://github.com/VV-I-S/lab5-borisova#readme"
+  "homepage": "https://github.com/VV-I-S/lab5-borisova#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
