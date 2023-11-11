@@ -12,7 +12,7 @@ $ npm install lab5-borisova
 ## Usage
 
 ```js
-import {quadratic, quadraticWithDiscriminant} from 'lab5-borisova'
+var {quadratic, quadraticWithDiscriminant} = require('lab5-borisova')
 
 console.log(quadratic(1,4,3)) // [ -1, -3 ]
 console.log(quadraticWithDiscriminant(1,4,3)) // { discriminant: 4, roots: [ -1, -3 ] }
